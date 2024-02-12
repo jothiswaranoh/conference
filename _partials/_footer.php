@@ -2,7 +2,8 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
-        Copyrights &copy; 2024 <?php echo $company_name ?> . All rights reserved
+        Copyrights &copy; 2024
+        <?php echo $company_name ?> . All rights reserved
         <a target="_blank" href="" title="Free Bootstrap Themes and HTML Templates"></a>
       </div>
       <div class="col-sm-6">
