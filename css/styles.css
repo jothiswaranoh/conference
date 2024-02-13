@@ -10,6 +10,7 @@ Author URL: http://webthemez.com
   --secondary: linear-gradient(#901d78 ,#e740c2);
   --secondary-dark: #901d78;
   --primary-dark: #fcd0f4bb ;
+  --box-color:#ab8aa5bb;
   --white: #fff;
   --black:#000;
 }
@@ -213,7 +214,7 @@ hr {
   margin-bottom: 50px;
 }
 .section-header .imp-div{
-  background:var(--primary-dark);
+  background:var(--box-color);
   padding: 50px;
   margin-bottom: 50px;
   border-radius: 10px;
