@@ -1,16 +1,15 @@
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/mousescroll.js"></script>
-<script src="js/smoothscroll.js"></script>
-<!-- <script src="js/jquery.prettyPhoto.js"></script> -->
-<script src="js/jquery.isotope.min.js"></script>
-<script src="js/jquery.inview.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/jquery.ba-cond.min.js"></script>
-<script type="text/javascript" src="js/jquery.slitslider.js"></script>
-<script type="text/javascript" src="js/slitslider-custom.js"></script>
-<script src="js/custom-scripts.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+
 </body>
 </html>

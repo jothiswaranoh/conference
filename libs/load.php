@@ -8,5 +8,5 @@ function load_template($name)
 
   // print($projectName);
   // print($_SERVER['DOCUMENT_ROOT'] . "$projectName" . "_templates/$name.php");
-  include $_SERVER['DOCUMENT_ROOT'] ."/$projectName" . "/_partials/_$name.php"; //not consistant.
+  include $_SERVER['DOCUMENT_ROOT'] ."/conference" . "/_partials/_$name.php"; //not consistant.
 }

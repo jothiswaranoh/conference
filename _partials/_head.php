@@ -1,22 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="" />
-  <meta name="author" content="webthemez" />
-  <title>
-    <?php echo isset($title) ? $title : 'Park College Conference & Paper Publication'; ?>
-  </title>
-  <!-- core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet" />
-  <link href="css/font-awesome.min.css" rel="stylesheet" />
-  <link href="css/animate.min.css" rel="stylesheet" />
-  <link href="css/styles.css" rel="stylesheet" />
-  <link rel="stylesheet" type="text/css" href="css/slider-style.css" />
-  <link rel="stylesheet" type="text/css" href="css/slider-custom.css" />
-  <!-- fav-icon -->
-  <link rel="shortcut icon" href="./images/logo.png" type="" />
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title><?php echo isset($title) ? $title : 'Park College Conference & Paper Publication'; ?></title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: TheEvent
+  * Updated: Feb 06 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
-<body id="home">
+
+<body>

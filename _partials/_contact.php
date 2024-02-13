@@ -1,70 +1,65 @@
-<section id="contact-us">
-  <div class="container">
-    <div class="section-header">
-      <h2 class="section-title wow fadeInDown">Contact Us</h2>
-      <p class="wow fadeInDown">
-        FOR FURTHER INFORMATION CONTACT
-      </p>
-    </div>
-  </div>
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="section-bg">
 
-  <div class="container">
-    <div class="container contact-info">
-      <div class="row">
-        <div class="contact-form">
-          <h1>Organizing Secretaries</h1>
-          <address>
-            <p><span> 1.</span>
-              Dr. Sakthivel Santhanam, Professor and Research Head Textile Technology
-            </p>
-            <p><span>2. </span>
-              Dr. Rajaram Mani, Professor and Dean/Electronics and Communication Engineering
-            </p>
-          </address>
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Contact Us</h2>
+          <p>Nihil officia ut sint molestiae tenetur.</p>
         </div>
-      </div>
-      <div class="row">
-        <!-- <div class="col-sm-4 col-md-4"> -->
-        <div class="contact-form col-sm-4 col-md-6">
-          <h1>Contact Info</h1>
-          <address>
-            Phone: <span>0421- 2911100, 2911200</span> <br />
-            Mobile: <span>+919500874993</span><br />
-            Fax No.: <span>0421 - 2334453</span> <br />
-            Email: <span>pceticiret2024@gmail.com</span>
-          </address>
-        </div>
-        <div class="contact-form col-sm-4 col-md-6">
-          <h1>Location</h1>
-          <address>
-            Park College of Engineering and Technology<br />
-            NH 544, Avinashi Road,<br />
-            Kaniyur, Coimbatore - 641 659
-          </address>
-        </div>
-        <!-- </div> -->
-        <div class="col">
-          <div class="contact-form">
-            <form id="main-contact-form" name="contact-form" method="post" action="#">
-              <div class="form-group">
-                <input type="text" name="name" class="form-control" placeholder="Name" required />
-              </div>
-              <div class="form-group">
-                <input type="email" name="email" class="form-control" placeholder="Email" required />
-              </div>
-              <div class="form-group">
-                <input type="text" name="subject" class="form-control" placeholder="Subject" required />
-              </div>
-              <div class="form-group">
-                <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary bold">
-                Send Message
-              </button>
-            </form>
+
+        <div class="row contact-info">
+
+          <div class="col-md-4">
+            <div class="contact-address">
+              <i class="bi bi-geo-alt"></i>
+              <h3>Address</h3>
+              <address>A108 Adam Street, NY 535022, USA</address>
+            </div>
           </div>
+
+          <div class="col-md-4">
+            <div class="contact-phone">
+              <i class="bi bi-phone"></i>
+              <h3>Phone Number</h3>
+              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-email">
+              <i class="bi bi-envelope"></i>
+              <h3>Email</h3>
+              <p><a href="mailto:info@example.com">info@example.com</a></p>
+            </div>
+          </div>
+
         </div>
+
+        <div class="form">
+          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+              </div>
+              <div class="form-group col-md-6 mt-3 mt-md-0">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+              </div>
+            </div>
+            <div class="form-group mt-3">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+            </div>
+            <div class="form-group mt-3">
+              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+            </div>
+            <div class="my-3">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+          </form>
+        </div>
+
       </div>
-    </div>
-  </div>
-</section>
+    </section><!-- End Contact Section -->
