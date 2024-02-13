@@ -709,6 +709,9 @@ h6 {
   overflow: hidden;
   margin-bottom: 30px;
 }
+.bg-primary-js{
+  background-color: rgba(6, 12, 34, 0.76);
+}
 
 #speakers .speaker .details {
   background: rgba(6, 12, 34, 0.76);

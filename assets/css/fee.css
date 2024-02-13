@@ -1,0 +1,47 @@
+/* Custom CSS for the Registration Fee section */
+#faq{
+  background-color: #f9f7f5;
+}
+#registration-fee {
+  background-color: rgba(6, 12, 34, 0.76); /* Set background color for the entire section */
+  padding: 60px 0; /* Add some padding for spacing */
+}
+
+.section-title {
+  color: #333; /* Set color for section titles */
+}
+
+.section-description {
+  color: #666; /* Set color for section descriptions */
+}
+
+.card {
+  background-color: #fff; /* Set background color for each card */
+  border-radius: 10px; /* Add border radius for card corners */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add shadow effect to cards */
+}
+
+.card-title {
+  color: #333; /* Set color for card titles */
+}
+
+.card-body {
+  padding: 20px; /* Add padding inside each card */
+}
+
+.card-price {
+  color: #007bff; /* Set color for card prices */
+}
+
+.card ul {
+  list-style-type: none; /* Remove default list style */
+  padding-left: 0; /* Remove default padding for lists */
+}
+
+.card ul li {
+  padding: 5px 0; /* Add some vertical spacing between list items */
+}
+
+.section-header {
+  margin-bottom: 40px; /* Add margin at the bottom of section headers */
+}

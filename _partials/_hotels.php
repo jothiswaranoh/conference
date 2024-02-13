@@ -3,8 +3,7 @@
 
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Hotels</h2>
-          <p>Her are some nearby hotels</p>
+          <h2>Publications</h2>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -14,8 +13,12 @@
               <div class="hotel-img">
                 <img src="assets/img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 1</a></h3>
-              <div class="stars">
+              <h3><a href="#">peer-reviewed</a></h3>
+              <p class="wow fadeInLeftBig">
+          All papers submitted to the conference will be peer-reviewed and evaluated for their originpty, technical
+          content and relevance to the conference.
+              </p>
+               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -31,7 +34,9 @@
               <div class="hotel-img">
                 <img src="assets/img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 2</a></h3>
+              <h3><a href="#">publish reviewed</a></h3>
+              <p>Journals of international reputation have accepted to publish reviewed papers of this conference, after
+          further peer review.</p>
               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -48,7 +53,9 @@
               <div class="hotel-img">
                 <img src="assets/img/hotels/3.jpg" alt="Hotel 3" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 3</a></h3>
+              <h3><a href="#">Anna University's published</a></h3>
+              <p> The published research in annexure -1 of Anna University's new list journals have accepted to publish the
+          selected papers after peer review.</p>
               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
