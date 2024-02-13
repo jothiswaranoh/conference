@@ -1,7 +1,7 @@
-<section id="mission" class="black-container ">
+<section id="mission" class="black-container diagonal">
   <div class="container">
     <div class="section-header">
-      <h2 class="section-title wow fadeInRightBig">Important Dates</h2>
+      <h2 class="section-title wow fadeInRightBig">Mode of Payment</h2>
       <div class="imp-div">
         <p> The last date to receive the abstract is : <span>25th Feb 2024</span></p>
         <p> Notification Acceptance : <span> Ist Mar 2024</span></p>
