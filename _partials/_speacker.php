@@ -3,7 +3,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Event Speakers</h2>
-          <p>Here are some of our speakers</p>
+          <p>Meet the Visionaries</p>
         </div>
 
         <div class="row">

@@ -5,7 +5,7 @@
 
     <div class="section-header">
       <h2>Event Venue</h2>
-      <p>Event venue location info and gallery</p>
+      <p>Nestled in the heart of Tamil Nadu</p>
     </div>
 
     <div class="row g-0">
@@ -18,10 +18,12 @@
       <div class="col-lg-6 venue-info">
         <div class="row justify-content-center">
           <div class="col-11 col-lg-8 position-relative">
-            <h3>Downtown Conference Center, New York</h3>
-            <p>Iste nobis eum sapiente sunt enim dolores labore accusantium autem. Cumque beatae ipsam. Est quae sit qui
-              voluptatem corporis velit. Qui maxime accusamus possimus. Consequatur sequi et ea suscipit enim nesciunt
-              quia velit.</p>
+            <h3>Embrace the Spirit of Coimbatore</h3>
+            <p>Coimbatore beckons with its vibrant culture, rich heritage, and burgeoning technological 
+              landscape. Known as the Manchester of South India, this bustling metropolis serves as the 
+              perfect backdrop for our conference. Explore the city's historic temples, scenic hill stations,
+               and thriving industrial hubs, as you immerse yourself in a captivating blend of tradition and 
+               innovation.</p>
           </div>
         </div>
       </div>

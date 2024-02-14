@@ -8,7 +8,10 @@
 
         <div class="col-lg-3 col-md-6 footer-info">
           <img src="assets/img/logo.png" alt="TheEvenet">
-          <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+          <p>Embark on a journey of discovery and innovation with ICIRET 2024, where brilliance converges
+             to shape the future of engineering and technology. As the curtain rises on this prestigious 
+             event, we invite you to delve into a realm of cutting-edge discussions, insightful presentations,
+            and collaborative opportunities.</p>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
@@ -68,7 +71,6 @@
       Licensing information: https://bootstrapmade.com/license/
       Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
     -->
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
     </div>
   </div>
 </footer><!-- End  Footer -->
