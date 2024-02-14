@@ -1,9 +1,9 @@
-    <!-- ======= Schedule Section ======= -->
+    <!-- ======= Schedule Section Its is changes as event Topics ======= -->
     <section id="schedule" class="section-with-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Event Schedule</h2>
-          <p>Here is our event schedule</p>
+          <h2>Event Topics</h2>
+          <p>Unveiling Tomorrow's Solutions</p>
         </div>
 
         <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
@@ -16,87 +16,106 @@
           <li class="nav-item">
             <a class="nav-link" href="#day-3" role="tab" data-bs-toggle="tab">Day 3</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-4" role="tab" data-bs-toggle="tab">Day 4</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-5" role="tab" data-bs-toggle="tab">Day 5</a>
+          </li>
         </ul>
 
-        <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
-          necessitatibus voluptatem quis labore perspiciatis quia.</h3>
+        <h3 class="sub-heading">Success is not final, failure is not fatal: It is the courage to continue that counts</h3>
 
         <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
           <!-- Schdule Day 1 -->
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
-            <div class="row schedule-item">
+            <!-- <div class="row schedule-item">
               <div class="col-md-2"><time>09:30 AM</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
                 <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
               </div>
-            </div>
+            </div> -->
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                  <img src="assets/img/conference-topics/1.jpg" alt="Brenden Legros">
                 </div>
-                <h4>Keynote <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
+                <h4>Micro, Nano, Manufacturing system and simulations</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
                 </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+                <h4>Aggregate production planning</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="assets/img/conference-topics/3.jpg" alt="Cole Emmerich">
                 </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+                <h4>Lean concepts</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/4.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+                <h4>Automation and rapid prototyping</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                <img src="assets/img/conference-topics/5.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+                <h4>Intelligent materials and manufacturing</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                <img src="assets/img/conference-topics/6.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+                <h4>Logistics and supply chain management </h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                <img src="assets/img/conference-topics/7.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>MEMS, Nanomaterials, and Technology</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                <img src="assets/img/conference-topics/8.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Modeling and simulation systems</h4>
               </div>
             </div>
 
@@ -106,69 +125,83 @@
           <!-- Schdule Day 2 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
 
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+          <div class="row schedule-item">
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                <img src="assets/img/conference-topics/9.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
+                <h4>Nanotechnology</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="assets/img/conference-topics/10.jpg" alt="Hubert Hirthe">
                 </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+                <h4>Optimization Techniques and Meta-heuristics</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="assets/img/conference-topics/11.jpg" alt="Cole Emmerich">
                 </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+                <h4>Renewable energy and alternative fuels</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/12.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+                <h4>Robotics sensor and applications</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                  <img src="assets/img/conference-topics/13.jpg" alt="Alejandrin Littel">
                 </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+                <h4>Smart textile and fabric comfort</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                  <img src="assets/img/conference-topics/14.jpg" alt="Willow Trantow">
                 </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+                <h4>Technical textiles and natural fiber composites</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/15.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Energy conservation</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/16.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Geo-informatics and GPS, Remote Sensing </h4>
               </div>
             </div>
 
@@ -178,74 +211,230 @@
           <!-- Schdule Day 3 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+          <div class="row schedule-item">
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="assets/img/conference-topics/17.jpg" alt="Brenden Legros">
                 </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+                <h4>Green energy environment</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="assets/img/conference-topics/18.jpg" alt="Hubert Hirthe">
                 </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+                <h4>Information and communications</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                  <img src="assets/img/conference-topics/19.jpg" alt="Cole Emmerich">
                 </div>
-                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
+                <h4>Artificial intelligence and expert system</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/20.jpg" alt="Jack Christiansen">
                 </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+                <h4>Bioinformatics, biotechnology, and biomedical Engineering</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                  <img src="assets/img/conference-topics/21.jpg" alt="Alejandrin Littel">
                 </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+                <h4>Bio-mechanics</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-2"></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                  <img src="assets/img/conference-topics/22.jpeg" alt="Willow Trantow">
                 </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+                <h4>Cloud computing</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/23.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Data mining</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/24.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Digital signal processing, VLSI</h4>
               </div>
             </div>
 
           </div>
-          <!-- End Schdule Day 2 -->
+          <!-- End Schdule Day 3 -->
+
+          <!-- Schdule Day 4 -->
+          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-4">
+
+              <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/25.jpeg" alt="Brenden Legros">
+                    </div>
+                    <h4>Embedded systems</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/26.jpg" alt="Hubert Hirthe">
+                    </div>
+                    <h4>Green computing</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/27.jpg" alt="Cole Emmerich">
+                    </div>
+                    <h4>Grid computing</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/28.jpg" alt="Jack Christiansen">
+                    </div>
+                    <h4>Image processing, Pattern recognition</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/29.jpg" alt="Alejandrin Littel">
+                    </div>
+                    <h4>Speech recognition</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/30.jpg" alt="Willow Trantow">
+                    </div>
+                    <h4>Information and network security</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/31.jpg" alt="Willow Trantow">
+                    </div>
+                    <h4>5G Network and all their topics related to the conference theme</h4>
+                  </div>
+                </div>
+
+              </div>
+              <!-- End Schdule Day 4 -->
+
+              <!-- Schdule Day 5 -->
+          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-5">
+
+              <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/32.jpg" alt="Brenden Legros">
+                    </div>
+                    <h4>Intelligent and electrical system</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
+                    </div>
+                    <h4>Mobile ad-hoc and sensor system</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/power-electronics-1.jpg" alt="Cole Emmerich">
+                    </div>
+                    <h4>Power electronics and solid-state device</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/power-system-1.jpg" alt="Jack Christiansen">
+                    </div>
+                    <h4>Power system optimization and deregulation</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/soft-computing.jpg" alt="Alejandrin Littel">
+                    </div>
+                    <h4>Soft computing, mobile computing</h4>
+                  </div>
+                </div>
+
+                <div class="row schedule-item">
+                  <div class="col-md-2"></div>
+                  <div class="col-md-10">
+                    <div class="speaker">
+                      <img src="assets/img/conference-topics/virtual-2.jpg" alt="Willow Trantow">
+                    </div>
+                    <h4>Virtual instrumentation</h4>
+                  </div>
+                </div>
+
+              </div>
+              <!-- End Schdule Day 5 -->
 
         </div>
 
