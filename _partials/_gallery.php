@@ -1,5 +1,5 @@
 <!-- ======= Gallery Section ======= -->
-<section id="gallery">
+<section id="gallery" style="background-color: rgba(6, 12, 34, 0.76);">
 
   <div class="container" data-aos="fade-up">
     <div class="section-header">

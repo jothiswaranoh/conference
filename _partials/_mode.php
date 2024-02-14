@@ -2,7 +2,7 @@
 <section id="mode-of-payment p-5" class="section-with-bg">
   <div class="container " data-aos="fade-up">
     <div class="section-header  my-5">
-      <h2 class="section-title">Mode of Payment</h2>
+      <h2 class="section-title text-dark">Mode of Payment</h2>
       <p class="section-description">Choose your preferred payment method</p>
     </div>
 
