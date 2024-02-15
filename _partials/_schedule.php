@@ -33,7 +33,7 @@
 
             <!-- <div class="row schedule-item">
               <div class="col-md-2"><time>09:30 AM</time></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <h4>Registration</h4>
                 <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
               </div>
@@ -41,7 +41,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/1.jpg" alt="Brenden Legros">
                 </div>
@@ -51,7 +51,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
                 </div>
@@ -61,7 +61,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/3.jpg" alt="Cole Emmerich">
                 </div>
@@ -71,7 +71,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/4.jpg" alt="Jack Christiansen">
                 </div>
@@ -81,7 +81,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                 <img src="assets/img/conference-topics/5.jpg" alt="Jack Christiansen">
                 </div>
@@ -91,7 +91,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                 <img src="assets/img/conference-topics/6.jpg" alt="Jack Christiansen">
                 </div>
@@ -101,7 +101,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                 <img src="assets/img/conference-topics/7.jpg" alt="Jack Christiansen">
                 </div>
@@ -111,7 +111,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                 <img src="assets/img/conference-topics/8.jpg" alt="Jack Christiansen">
                 </div>
@@ -127,7 +127,7 @@
 
           <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                 <img src="assets/img/conference-topics/9.jpg" alt="Jack Christiansen">
                 </div>
@@ -137,7 +137,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/10.jpg" alt="Hubert Hirthe">
                 </div>
@@ -147,7 +147,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/11.jpg" alt="Cole Emmerich">
                 </div>
@@ -157,7 +157,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/12.jpg" alt="Jack Christiansen">
                 </div>
@@ -167,7 +167,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/13.jpg" alt="Alejandrin Littel">
                 </div>
@@ -177,7 +177,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/14.jpg" alt="Willow Trantow">
                 </div>
@@ -187,7 +187,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/15.jpg" alt="Willow Trantow">
                 </div>
@@ -197,7 +197,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/16.jpg" alt="Willow Trantow">
                 </div>
@@ -213,7 +213,7 @@
 
           <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/17.jpg" alt="Brenden Legros">
                 </div>
@@ -223,7 +223,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/18.jpg" alt="Hubert Hirthe">
                 </div>
@@ -233,7 +233,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/19.jpg" alt="Cole Emmerich">
                 </div>
@@ -243,7 +243,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/20.jpg" alt="Jack Christiansen">
                 </div>
@@ -253,7 +253,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/21.jpg" alt="Alejandrin Littel">
                 </div>
@@ -263,7 +263,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/22.jpeg" alt="Willow Trantow">
                 </div>
@@ -273,7 +273,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/23.jpg" alt="Willow Trantow">
                 </div>
@@ -283,7 +283,7 @@
 
             <div class="row schedule-item">
               <div class="col-md-2"></div>
-              <div class="col-md-10">
+              <div class="col-md-10 align-center">
                 <div class="speaker">
                   <img src="assets/img/conference-topics/24.jpg" alt="Willow Trantow">
                 </div>
@@ -299,7 +299,7 @@
 
               <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/25.jpeg" alt="Brenden Legros">
                     </div>
@@ -309,7 +309,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/26.jpg" alt="Hubert Hirthe">
                     </div>
@@ -319,7 +319,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/27.jpg" alt="Cole Emmerich">
                     </div>
@@ -329,7 +329,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/28.jpg" alt="Jack Christiansen">
                     </div>
@@ -339,7 +339,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/29.jpg" alt="Alejandrin Littel">
                     </div>
@@ -349,7 +349,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/30.jpg" alt="Willow Trantow">
                     </div>
@@ -359,7 +359,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/31.jpg" alt="Willow Trantow">
                     </div>
@@ -375,7 +375,7 @@
 
               <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/32.jpg" alt="Brenden Legros">
                     </div>
@@ -385,7 +385,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
                     </div>
@@ -395,7 +395,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/power-electronics-1.jpg" alt="Cole Emmerich">
                     </div>
@@ -405,7 +405,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/power-system-1.jpg" alt="Jack Christiansen">
                     </div>
@@ -415,7 +415,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/soft-computing.jpg" alt="Alejandrin Littel">
                     </div>
@@ -425,7 +425,7 @@
 
                 <div class="row schedule-item">
                   <div class="col-md-2"></div>
-                  <div class="col-md-10">
+                  <div class="col-md-10 align-center">
                     <div class="speaker">
                       <img src="assets/img/conference-topics/virtual-2.jpg" alt="Willow Trantow">
                     </div>
