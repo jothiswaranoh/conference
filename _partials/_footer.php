@@ -63,7 +63,7 @@
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
+      &copy; Copyright <strong>The Park College of Engineering and Technology</strong>. All Rights Reserved
     </div>
     <div class="credits">
       <!--

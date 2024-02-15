@@ -1,5 +1,5 @@
 <!-- ======= Registration Fee Section ======= -->
-<section id="registration-fee" class="bg-primary-js">
+<section id="registration-fee container-p" class="bg-primary-js">
   <div class="container" data-aos="fade-up">
 
     <div class="section-header text-white">
