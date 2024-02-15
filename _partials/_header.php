@@ -6,7 +6,7 @@
       <div id="logo" class="me-auto">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
-        <a href="index.html" class="scrollto"><img src="assets/img/logo.png" alt="" title=""></a>
+        <a href="index.html" class="scrollto"><img src="assets\img\about\park\logo-01.png" alt="" title=""></a>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -17,9 +17,9 @@
           <!-- Event sehedule is changed as Event Topics -->
           <li><a class="nav-link scrollto" href="#schedule">Topics</a></li>  
           <li><a class="nav-link scrollto" href="#venue">Venue</a></li>
-          <li><a class="nav-link scrollto" href="#hotels">Hotels</a></li>
+          <li><a class="nav-link scrollto" href="#hotels">Publications</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
-          <li><a class="nav-link scrollto" href="#supporters">Sponsors</a></li>
+          <li><a class="nav-link scrollto" href="#supporters">FAQ</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
             <li><a href="#">Drop Down 1</a></li>
