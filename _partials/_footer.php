@@ -7,7 +7,7 @@
       <div class="row">
 
         <div class="col-lg-3 col-md-6 footer-info">
-          <img src="assets/img/logo.png" alt="TheEvenet">
+          <img src="assets\img\about\park\logo-01.png" alt="TheEvenet">
           <p>Embark on a journey of discovery and innovation with ICIRET 2024, where brilliance converges
              to shape the future of engineering and technology. As the curtain rises on this prestigious 
              event, we invite you to delve into a realm of cutting-edge discussions, insightful presentations,
@@ -39,11 +39,12 @@
         <div class="col-lg-3 col-md-6 footer-contact">
           <h4>Contact Us</h4>
           <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
+          Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India<br>
+            <strong>Phone:</strong> +919500874993<br>
+            <strong>Telefax:</strong> 0421-2334453<br>
+
+            <strong>Email:</strong> pceticiret2024@gmail.com
+<br>
           </p>
 
           <div class="social-links">

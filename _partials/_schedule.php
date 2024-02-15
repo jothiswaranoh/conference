@@ -8,19 +8,19 @@
 
         <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
           <li class="nav-item">
-            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Day 1</a>
+            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Foundation of Innovation</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Day 2</a>
+            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Sustainable Tech</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-3" role="tab" data-bs-toggle="tab">Day 3</a>
+            <a class="nav-link" href="#day-3" role="tab" data-bs-toggle="tab">Cutting-Edge Intelligence</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-4" role="tab" data-bs-toggle="tab">Day 4</a>
+            <a class="nav-link" href="#day-4" role="tab" data-bs-toggle="tab">Bio & Beyond</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-5" role="tab" data-bs-toggle="tab">Day 5</a>
+            <a class="nav-link" href="#day-5" role="tab" data-bs-toggle="tab">Future Trends</a>
           </li>
         </ul>
 
