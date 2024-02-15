@@ -14,7 +14,7 @@
             <div class="contact-address">
               <i class="bi bi-geo-alt"></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <address>Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India</address>
             </div>
           </div>
 
@@ -22,7 +22,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <p><a href="tel:+155895548855">+919500874993<br>+91-421-2334453</a></p>
             </div>
           </div>
 
@@ -30,7 +30,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
+              <p><a href="mailto:info@example.com">pceticiret2024@gmail.com</a></p>
             </div>
           </div>
 

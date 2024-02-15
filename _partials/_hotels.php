@@ -13,7 +13,7 @@
               <div class="hotel-img">
                 <img src="assets/img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
               </div>
-              <h3><a href="#">peer-reviewed</a></h3>
+              <h3><a href="#">Peer-reviewed</a></h3>
               <p class="wow fadeInLeftBig">
           All papers submitted to the conference will be peer-reviewed and evaluated for their originpty, technical
           content and relevance to the conference.
@@ -34,7 +34,7 @@
               <div class="hotel-img">
                 <img src="assets/img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
               </div>
-              <h3><a href="#">publish reviewed</a></h3>
+              <h3><a href="#">Publish reviewed</a></h3>
               <p>Journals of international reputation have accepted to publish reviewed papers of this conference, after
           further peer review.</p>
               <div class="stars">
