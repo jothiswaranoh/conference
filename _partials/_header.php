@@ -16,8 +16,9 @@
         <li><a class="nav-link scrollto" href="#schedule">Topics</a></li>
         <li><a class="nav-link scrollto" href="#venue">Venue</a></li>
         <li><a class="nav-link scrollto" href="#hotels">Publications</a></li>
+        <li><a class="nav-link scrollto" href="#organizers">Organizers</a></li>
         <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
-        <li><a class="nav-link scrollto" href="#supporters">FAQ</a></li>
+        <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
         <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
