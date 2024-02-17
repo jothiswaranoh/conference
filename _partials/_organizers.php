@@ -3,7 +3,7 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-header ">
-            <h2 class="section-title ">Organising Committee</h2>
+            <h2 class="section-title text-dark ">Organising Committee</h2>
         </div>
 
         <div class="row">
