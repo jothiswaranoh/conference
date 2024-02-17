@@ -1,5 +1,5 @@
 <!-- =======  F.A.Q Section ======= -->
-<section id="faq">
+<section id="faq" class="section-with-bg">
 
   <div class="container" data-aos="fade-up">
     <div class="section-header">
