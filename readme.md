@@ -27,11 +27,11 @@
 ## dont merge directly make a pr
 
 i am doing currently some thing in payment i make pr please verify and merge it.
---> ok ,u have said this before.
+# --> ok ,u have said this before.
 
 
 orgasee commit stuructur is ok but colors and effect is not ok
---> what changes u want ? can u specify it 
+# --> what changes u want ? can u specify it 
 
 
 
