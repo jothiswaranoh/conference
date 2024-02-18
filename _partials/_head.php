@@ -23,11 +23,11 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
+  <link href="assets/css/mode.scss" rel="stylesheet">
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/fee.scss" rel="stylesheet">
   <link href="assets/css/date.scss" rel="stylesheet">
   <link href="assets/css/cards.scss" rel="stylesheet">
-  <link href="assets/css/mode.scss" rel="stylesheet">
 
 
 

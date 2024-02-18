@@ -1,5 +1,5 @@
 <!-- =======  F.A.Q Section ======= -->
-<section id="faq" class="section-with-bg">
+<section id="faq" style="background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);">
 
   <div class="container" data-aos="fade-up">
     <div class="section-header">

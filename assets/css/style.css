@@ -17,7 +17,7 @@ body {
 :root {
   --primary-color:#a42386;
   --secondary-color:#f37b16;
-  --blue-color:#f0f2fe;
+  --blue-color:#e3e7fc;
 }
 a {
   color: var(--primary-color);
