@@ -1,5 +1,5 @@
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="section-bg">
+    <section id="contact" class="section-with-bg" >
 
       <div class="container" data-aos="fade-up">
 

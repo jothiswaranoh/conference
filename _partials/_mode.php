@@ -1,5 +1,5 @@
 <!-- Mode of Payment Section -->
-<section id="mode-of-payment container-p" class="section-with-bg">
+<section id="mode-of-payment container-p" class="section-with-bg" style="background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);">
   <div class="container" data-aos="fade-up">
     <div class="section-header  ">
       <h2 class="section-title text-dark">Mode of Payment</h2>
