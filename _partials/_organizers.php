@@ -14,9 +14,9 @@
                         <hr>
                         <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
                             <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Mr.T.R.Karthik
-                                <span><br /> Secretary <br /> Park Institutions</span>
+                                <span><br /> Secretary <br /><i> Park Institutions</i></span>
                             </li>
-                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Prof. K.S Sathish Kumar <br /> <span>General Manager <br /> Park Institutions</span> </li>
+                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Prof. K.S Sathish Kumar <br /> <span>General Manager <br /> <i>Park Institutions</i> </span></li>
                         </ul>
                     </div>
                 </div>
@@ -27,8 +27,8 @@
                         <h5 class="card-title text-muted text-uppercase text-center text-c">Organising Secretaries</h5>
                         <hr>
                         <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
-                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Sakthivel Santhanam <span> <br /> Park Institutions</span></li>
-                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Rajaram Mani <span> <br /> Park Institutions</span></li>
+                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Sakthivel Santhanam <span> <br /> <i>Park Institutions</i> </span></li>
+                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Rajaram Mani <span> <br />  <i>Park Institutions</i> </span></li>
                         </ul>
                     </div>
                 </div>

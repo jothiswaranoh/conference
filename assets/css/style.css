@@ -38,6 +38,7 @@ margin-bottom: 0;
   font-weight: bold;
 }
 .bold span{
+  font-size: 14px;
  font-weight: 200;
 }
 .margin{
@@ -72,6 +73,17 @@ margin-bottom: 0;
 }
 .text-c{
   color: var(--primary-color) !important;
+}
+.card-body img{
+width: 4rem;
+height:4rem;
+position: relative;
+border-radius: 0 0 0 1.9rem ;
+object-fit: cover;
+}
+.card-body img:hover{
+  transform: rotate(10deg);
+  background-color: var(--primary-color);
 }
 a:hover,
 a:active,
