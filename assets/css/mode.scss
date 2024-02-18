@@ -1,0 +1,10 @@
+#mode-of-payment{
+  .card {
+    background-color: transparent; // Set a transparent background initially
+    background-image: linear-gradient(to right, #ff7e5f, #feb47b); // Set your linear gradient colors
+    &:hover {
+      background-image: linear-gradient(to right, #ff7e5f, #feb47b); // Change gradient on hover if needed
+    }
+  }
+  
+}
