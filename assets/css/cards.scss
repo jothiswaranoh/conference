@@ -1,0 +1,60 @@
+.solution_card {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px 0 rgba(235, 236, 242, 0.2),
+              0 5px 15px 0 rgba(236, 236, 238, 0.15);
+  margin: 8px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s;
+}
+
+.solution_card:hover {
+  color: #333; /* Change color to a darker color */
+  transform: scale(1.05);
+}
+
+.solution_card:hover::before {
+  content: "";
+  position: absolute;
+  background: linear-gradient(to right, #5585ec, #005bec);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 50%;
+  transform: scale(3);
+  transition: all 0.3s;
+}
+
+.solu_title {
+  background-color: #a42386; /* Background color for title */
+  border-radius: 15px; /* Rounded corners for title area */
+  padding: 10px; 
+  transition: background 0.3s ease;
+  /* Add padding for better spacing */
+}
+
+.solu_title h3 {
+  color: #fff;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.solu_description {
+  margin-top: 15px; /* Add space between title and description */
+}
+
+.solu_description h6 {
+  color: #6106f4;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.solu_description p {
+  color: #212121;
+  font-size: 1rem;
+  margin: 5px 0;
+}

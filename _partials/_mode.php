@@ -1,6 +1,6 @@
 <!-- Mode of Payment Section -->
 <section id="mode-of-payment container-p" class="section-with-bg">
-  <div class="container " data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
     <div class="section-header  ">
       <h2 class="section-title text-dark">Mode of Payment</h2>
       <p class="section-description">Choose your preferred payment method</p>
@@ -37,8 +37,8 @@
     </div>
 
     <!-- NEFT/Online Transfer Payment Option -->
-    <div class="row">
-      <div class="col-lg-6 offset-lg-3 div-p" data-aos="fade-up" data-aos-delay="500">
+    <div class="row ">
+      <div class="col-lg-6 offset-lg-3 div-p pt-4" data-aos="fade-up" data-aos-delay="500">
         <div class="card mb-5 mb-lg-0">
           <div class="card-body ">
           <div class="d-flex align-items-center justify-content-center gap-3">
