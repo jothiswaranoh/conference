@@ -27,8 +27,8 @@
                         <h5 class="card-title text-muted text-uppercase text-center text-c">Organising Secretaries</h5>
                         <hr>
                         <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
-                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Sakthivel Santhanam <span> <br /> <i>Park Institutions</i> </span></li>
-                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Rajaram Mani <span> <br />  <i>Park Institutions</i> </span></li>
+                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Sakthivel Santhanam <span> <br /> <i>Professor and Research<br/> Head Textile Technology</i> </span></li>
+                            <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Rajaram Mani <span> <br />  <i>Professor and Dean/Electronics<br/>  Communication Engineering</i> </span></li>
                         </ul>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                     <div class="card-body">
                         <h5 class="card-title text-muted text-uppercase text-center text-c">Members</h5>
                         <hr>
-                        <ul class="fa-ul ul-m ul-scroll">
+                        <ul class="fa-ul ul-m ul-scroll flex-column justify-content-center">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Dr. K. Kumaresan</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Dr. A. P. Haran</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Dr. N.S. Sakthivel Murugan</li>
