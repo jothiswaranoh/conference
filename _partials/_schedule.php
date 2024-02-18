@@ -1,7 +1,7 @@
     <!-- ======= Schedule Section Its is changes as event Topics ======= -->
     <section id="schedule" class="section-with-bg">
       <div class="container" data-aos="fade-up">
-        <div class="section-header">
+        <div class="section-header pa-10">
           <h2>Event Topics</h2>
           <p>Unveiling Tomorrow's Solutions</p>
         </div>
@@ -30,15 +30,6 @@
 
           <!-- Schdule Day 1 -->
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
-
-            <!-- <div class="row schedule-item">
-              <div class="col-md-2"><time>09:30 AM</time></div>
-              <div class="col-md-10 align-center">
-                <h4>Registration</h4>
-                <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
-              </div>
-            </div> -->
-
             <div class="row schedule-item">
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
@@ -83,7 +74,7 @@
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
-                <img src="assets/img/conference-topics/5.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/5.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Intelligent materials and manufacturing</h4>
               </div>
@@ -93,7 +84,7 @@
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
-                <img src="assets/img/conference-topics/6.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/6.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Logistics and supply chain management </h4>
               </div>
@@ -103,7 +94,7 @@
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
-                <img src="assets/img/conference-topics/7.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/7.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>MEMS, Nanomaterials, and Technology</h4>
               </div>
@@ -113,7 +104,7 @@
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
-                <img src="assets/img/conference-topics/8.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/8.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Modeling and simulation systems</h4>
               </div>
@@ -125,11 +116,11 @@
           <!-- Schdule Day 2 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
 
-          <div class="row schedule-item">
+            <div class="row schedule-item">
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
-                <img src="assets/img/conference-topics/9.jpg" alt="Jack Christiansen">
+                  <img src="assets/img/conference-topics/9.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Nanotechnology</h4>
               </div>
@@ -211,7 +202,7 @@
           <!-- Schdule Day 3 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
-          <div class="row schedule-item">
+            <div class="row schedule-item">
               <div class="col-md-2"></div>
               <div class="col-md-10 align-center">
                 <div class="speaker">
@@ -297,144 +288,144 @@
           <!-- Schdule Day 4 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-4">
 
-              <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/25.jpeg" alt="Brenden Legros">
-                    </div>
-                    <h4>Embedded systems</h4>
-                  </div>
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/25.jpeg" alt="Brenden Legros">
                 </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/26.jpg" alt="Hubert Hirthe">
-                    </div>
-                    <h4>Green computing</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/27.jpg" alt="Cole Emmerich">
-                    </div>
-                    <h4>Grid computing</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/28.jpg" alt="Jack Christiansen">
-                    </div>
-                    <h4>Image processing, Pattern recognition</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/29.jpg" alt="Alejandrin Littel">
-                    </div>
-                    <h4>Speech recognition</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/30.jpg" alt="Willow Trantow">
-                    </div>
-                    <h4>Information and network security</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/31.jpg" alt="Willow Trantow">
-                    </div>
-                    <h4>5G Network and all their topics related to the conference theme</h4>
-                  </div>
-                </div>
-
+                <h4>Embedded systems</h4>
               </div>
-              <!-- End Schdule Day 4 -->
+            </div>
 
-              <!-- Schdule Day 5 -->
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/26.jpg" alt="Hubert Hirthe">
+                </div>
+                <h4>Green computing</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/27.jpg" alt="Cole Emmerich">
+                </div>
+                <h4>Grid computing</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/28.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Image processing, Pattern recognition</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/29.jpg" alt="Alejandrin Littel">
+                </div>
+                <h4>Speech recognition</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/30.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Information and network security</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/31.jpg" alt="Willow Trantow">
+                </div>
+                <h4>5G Network and all their topics related to the conference theme</h4>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Day 4 -->
+
+          <!-- Schdule Day 5 -->
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-5">
 
-              <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/32.jpg" alt="Brenden Legros">
-                    </div>
-                    <h4>Intelligent and electrical system</h4>
-                  </div>
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/32.jpg" alt="Brenden Legros">
                 </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
-                    </div>
-                    <h4>Mobile ad-hoc and sensor system</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/power-electronics-1.jpg" alt="Cole Emmerich">
-                    </div>
-                    <h4>Power electronics and solid-state device</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/power-system-1.jpg" alt="Jack Christiansen">
-                    </div>
-                    <h4>Power system optimization and deregulation</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/soft-computing.jpg" alt="Alejandrin Littel">
-                    </div>
-                    <h4>Soft computing, mobile computing</h4>
-                  </div>
-                </div>
-
-                <div class="row schedule-item">
-                  <div class="col-md-2"></div>
-                  <div class="col-md-10 align-center">
-                    <div class="speaker">
-                      <img src="assets/img/conference-topics/virtual-2.jpg" alt="Willow Trantow">
-                    </div>
-                    <h4>Virtual instrumentation</h4>
-                  </div>
-                </div>
-
+                <h4>Intelligent and electrical system</h4>
               </div>
-              <!-- End Schdule Day 5 -->
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/2.jpg" alt="Hubert Hirthe">
+                </div>
+                <h4>Mobile ad-hoc and sensor system</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/power-electronics-1.jpg" alt="Cole Emmerich">
+                </div>
+                <h4>Power electronics and solid-state device</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/power-system-1.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Power system optimization and deregulation</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/soft-computing.jpg" alt="Alejandrin Littel">
+                </div>
+                <h4>Soft computing, mobile computing</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10 align-center">
+                <div class="speaker">
+                  <img src="assets/img/conference-topics/virtual-2.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Virtual instrumentation</h4>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Day 5 -->
 
         </div>
 
