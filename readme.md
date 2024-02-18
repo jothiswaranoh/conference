@@ -8,15 +8,15 @@
 --------------------------------------------------------
 
 ## UI Corrections Needed
-<img src="screenshot1.png" alt="Alt Text" width="300">
+<img src="screenshot1.png" alt="Alt Text" width="900">
 
-<img src="screenshot2.png" alt="Alt Text" width="300">
+<img src="screenshot2.png" alt="Alt Text" width="900">
 
    - Make the box sizes Even
    - We want Organizing Committee Members Images (Pending)
    - Footer work (Pending)
 
-<img src="screenshot3.png" alt="Alt Text" width="300">
+<img src="screenshot3.png" alt="Alt Text" width="900">
 
    - Need to change the box in into little bit smaller
    - 2nd row need some space
