@@ -26,24 +26,6 @@
             src="assets/img/gallery/7.jpg" class="img-fluid" alt=""></a></div>
       <div class="swiper-slide"><a href="assets/img/gallery/8.jpg" class="gallery-lightbox"><img
             src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/9.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/10.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/11.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/12.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/13.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/14.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/15.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/16.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
-      <div class="swiper-slide"><a href="assets/img/gallery/17.jpg" class="gallery-lightbox"><img
-            src="assets/img/gallery/8.jpg" class="img-fluid" alt=""></a></div>
     </div>
     <div class="swiper-pagination"></div>
   </div>

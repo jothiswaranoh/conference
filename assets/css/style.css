@@ -17,6 +17,7 @@ body {
 :root {
   --primary-color:#a42386;
   --secondary-color:#f37b16;
+  --blue-color:#f0f2fe;
 }
 a {
   color: var(--primary-color);
@@ -39,6 +40,9 @@ padding: 0 10%;
 .text-p{
   color: var(--primary-color) !important;
 }
+.pa-10{
+ margin-bottom: 30px !important;
+}
 .bold{
   font-weight: bold;
 }
@@ -49,10 +53,31 @@ padding: 0 10%;
 .margin{
   margin-top: 1%;
 }
+.register-card{
+  height:170px;
+}
+.register-card:hover h6{
+  font-size: 18px;
+  color:var(--primary-color);
+}
+.register-card:hover h5{
+  font-size: 21px;
+  color:var(--primary-color)!important;
+}
+.date-box{
+  height:130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+@media screen and (width<987px) {
+  .date-box{
+    height: 90px;
+  }
+}
 .b-shadow-d{
   box-shadow: 0 0 1rem red;
 }
-
 .b-shadow-s
 {
   box-shadow: 0 0 1rem #36a571;
@@ -205,7 +230,7 @@ h6 {
 }
 
 .section-with-bg {
-  background-color: #f0f2fe;
+  background-color: var(--blue-color);
   padding: 60px 0;
 }
 .pad-1{
@@ -903,7 +928,7 @@ h6 {
 
 #schedule .nav-tabs li {
   display: inline-block;
-  margin: .2rem;
+  margin-bottom: 1rem;
 }
 
 #schedule .nav-tabs a {
