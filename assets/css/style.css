@@ -54,7 +54,7 @@ padding: 0 10%;
   margin-top: 1%;
 }
 .register-card{
-  height:170px;
+  height:185px;
 }
 .register-card:hover h6{
   font-size: 18px;
@@ -110,10 +110,12 @@ height:4rem;
 position: relative;
 border-radius: 0 0 0 1.9rem ;
 object-fit: cover;
+animation: example 1s infinite ease-in-out;
 }
-.card-body img:hover{
-  transform: rotate(10deg);
-  background-color: var(--primary-color);
+@keyframes example{
+  0%   {transform: rotate(0deg);}
+  50%  {transform: rotate(10deg);}
+  100% {transform: rotate(0deg);} 
 }
 a:hover,
 a:active,
@@ -1253,7 +1255,7 @@ align-items: center;
 }
 
 #faq .faq-list li {
-  border-bottom: 1px solid #e9eaed;
+  /* border-bottom: 1px solid #e9eaed; */
   margin-bottom: 20px;
   padding-bottom: 20px;
 }
@@ -1261,7 +1263,6 @@ align-items: center;
 #faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: var(--primary-color);
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
@@ -1304,7 +1305,6 @@ align-items: center;
   display: none;
   transition: 0.6s;
 }
-
 /*--------------------------------------------------------------
 # Subscribe Section
 --------------------------------------------------------------*/
