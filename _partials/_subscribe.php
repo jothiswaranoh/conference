@@ -1,6 +1,6 @@
 <!-- ======= Important Dates Section ======= -->
 <section id="subscribe" style="background-color: #f7f7f7; padding: 50px 0;">
-  <!-- <div class="container">
+  <div class="container">
     <div class="section-header text-center mb-4">
       <h2 style="color: #FFF;">IMPORTANT DATES</h2>
       <p style="color: #FFF;">Mark your calendars!</p>
@@ -29,64 +29,6 @@
           <div class="col-md-6 col-lg-3 mb-4 pad-1">
             <div class="box date-box  b-shadow-d bg-danger text-white text-center py-4">
               <h3 class="mb-0">25<sup>th</sup> & 26<sup>th</sup> Apr 2024</h3>
-              <p class="mb-0">Conference dates</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <div class="section-header text-center mb-4">
-    <h2 style="color: #FFF;">IMPORTANT DATES</h2>
-    <p style="color: #FFF;">Mark your calendars!</p>
-  </div>
-  <div class="container">
-    <div class="row ">
-      <div class="col-xl-6 col-lg-6">
-        <div class="card l-bg-cherry">
-          <div class="card-statistic-3 p-4">
-            <div class="mb-4">
-              <h3 class="mb-0">25<sup>th</sup> & 26<sup>th</sup> Apr 2024</h3>
-            </div>
-            <div class="mb-4">
-              <p class="card-text mb-0">Last Date for Abstract Submission</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-xl-6 col-lg-6">
-        <div class="card l-bg-blue-dark">
-          <div class="card-statistic-3 p-4">
-            <div class="mb-4">
-              <h3 class="mb-0">15<sup>th</sup> Mar 2024</h3>
-            </div>
-            <div class="mb-4">
-              <p class="card-text mb-0">Notification Acceptance</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xl-6 col-lg-6">
-        <div class="card l-bg-green-dark">
-          <div class="card-statistic-3 p-4">
-            <div class="mb-4">
-              <h3 class="mb-0">15<sup>th</sup> Mar 2024</h3>
-            </div>
-            <div class="mb-4">
-              <p class="card-text mb-0">Registration form and fees</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xl-6 col-lg-6">
-        <div class="card l-bg-orange-dark">
-          <div class="card-statistic-3 p-4">
-            <div class="mb-4">
-              <h3 class="mb-0">25<sup>th</sup> & 26<sup>th</sup> Apr 2024</h3>
-
-            </div>
-            <div class="mb-4">
               <p class="mb-0">Conference dates</p>
             </div>
           </div>
