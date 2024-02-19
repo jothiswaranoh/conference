@@ -75,4 +75,4 @@
     </div>
   </div>
 </footer><!-- End  Footer -->
-<?php load_template('foot'); ?>
+<?php include '_foot.php'; ?>
