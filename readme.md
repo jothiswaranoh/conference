@@ -1,5 +1,6 @@
 **chat url -plz**
 **chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz****chat url -plz**
+jothis.epizy.com/chat -->not working
 ## UI Corrections
 
 - decrease the size for hover Organizing Committee Members 
