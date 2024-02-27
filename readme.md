@@ -30,3 +30,10 @@ i cant understand properly i removed yellow added white add black please check.
 - is it ok?
 
 
+## updated about the new structure
+- 1st 4 patials load automatically 
+- when every user scroll make a request load data async so it increase speed a lot
+- when every adding new partials add in a js too and keep same structure in home as like that
+## production link
+https://park-conference.000webhostapp.com/
+please check
