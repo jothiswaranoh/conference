@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "mode",
     "subscribe",
     "organizers",
-    "gallery",
+    "gallery_section",
     "faq",
     "contact",
     "footer",
@@ -25,6 +25,8 @@ document.addEventListener("DOMContentLoaded", function () {
         if (this.readyState == 4 && this.status == 200) {
           container.innerHTML = this.responseText;
           container.setAttribute("data-loaded", true);
+          loadMainJS();
+
         }
       };
       xhttp.onerror = function () {
@@ -34,7 +36,21 @@ document.addEventListener("DOMContentLoaded", function () {
       xhttp.send();
     }
   }
+  function loadMainJS() {
+    var script = document.createElement("script");
+    script.src = "assets/js/main.js";
+    document.body.appendChild(script);
+  }
 
+  function recallMainMethods() {
+    // Iterate through properties of the global object (usually window)
+    for (var prop in window) {
+      // Check if the property is a function and not a built-in method
+      if (typeof window[prop] === 'function' && window[prop] !== loadMainJS && window[prop] !== recallMainMethods) {
+        // Call the function
+      }
+    }
+  }
   var currentPageIndex = 0;
   var halfPageHeight = window.innerHeight / 2;
   var initialLoadComplete = false;

@@ -10,7 +10,7 @@
 <div id="mode" data-loaded="false"></div>
 <div id="subscribe" data-loaded="false"></div>
 <div id="organizers" data-loaded="false"></div>
-<div id="gallery" data-loaded="false"></div>
+<div id="gallery_section" data-loaded="false"></div>
 <div id="faq" data-loaded="false"></div>
 <div id="contact" data-loaded="false"></div>
 <main>
