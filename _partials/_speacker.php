@@ -39,7 +39,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
+              <img src="assets/img/speakers/principal.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Conference Chairman</a></h3>
                 <p>Dr. D. Lakshmanan [Principal]<br>Park College of Engineering and Technology</p>

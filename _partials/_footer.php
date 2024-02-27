@@ -75,4 +75,3 @@
     </div>
   </div>
 </footer><!-- End  Footer -->
-<?php include '_foot.php'; ?>
