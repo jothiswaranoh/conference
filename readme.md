@@ -26,3 +26,7 @@ do this you get resent code run this if you not statifies then you should change
 
 i cant understand properly i removed yellow added white add black please check.
 
+- i started new changes of base beacuse in production it very slow for rendering so i going to add the js call for the load
+- is it ok?
+
+
