@@ -1,6 +1,5 @@
 
 ## UI Corrections
-<img src="1.png" alt="Alt Text" width="900">
 
 - decrease the size for hover Organizing Committee Members 
 - footer useful links
