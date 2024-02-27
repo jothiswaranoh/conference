@@ -14,10 +14,10 @@
                 <h3><a href="speaker-details.html">Chief Patron</a></h3>
                 <p>Dr. P. V. Ravi [Chairman]<br>PARK Institutions</p>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a> -->
                 </div>
               </div>
             </div>
@@ -29,10 +29,10 @@
                 <h3><a href="speaker-details.html">Patron</a></h3>
                 <p>Mrs. Anusha.R [Chief Executive]<br>PARK Institutions</p>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a> -->
                 </div>
               </div>
             </div>
@@ -44,10 +44,10 @@
                 <h3><a href="speaker-details.html">Conference Chairman</a></h3>
                 <p>Dr. D. Lakshmanan [Principal]<br>Park College of Engineering and Technology</p>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a> -->
                 </div>
               </div>
             </div>
