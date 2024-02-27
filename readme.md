@@ -29,4 +29,5 @@ i cant understand properly i removed yellow added white add black please check.
 - i started new changes of base beacuse in production it very slow for rendering so i going to add the js call for the load
 - is it ok?
 
-
+## gn can do work tomorrow 
+# Love u chlm
