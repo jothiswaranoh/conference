@@ -11,16 +11,17 @@ $light-background-color: #f9f7f5;
 }
 
 .card {
-  background-color: #fad799; /* Set background color for each card */
+  background-color: #e3e4db; /* Set background color for each card */
   border-radius: 10px; /* Add border radius for card corners */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add shadow effect to cards */
   margin-bottom: 20px;
   transition: transform 0.3s, background-color 0.3s; /* Add transition for transform and background-color */
 
   &:hover {
+    color: $light-background-color !important;
     transform: translateY(-10px) rotate(2deg); /* Add more animation with rotation */
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Add more animation with a deeper box-shadow */
-    background-color: #fad780; /* Change background color on hover */
+    background-color: #313638; /* Change background color on hover */
   }
 
   .card-title {
@@ -30,7 +31,10 @@ $light-background-color: #f9f7f5;
   }
 
   .card-body {
-    padding: 20px; /* Add padding inside each card */
+    padding: 20px;
+    &:hover{
+      color: #f9f7f5 !important;
+    }
   }
 
   .card-price {

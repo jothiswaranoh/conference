@@ -18,3 +18,5 @@
 do this you get resent code run this if you not statifies then you should change no problem
 
 - focus on yellow color cards add effects like popup background shadow etc for all that is only pending tast.
+-> jothis : added the colors removed the yellow color
+-> samithra please take care of overall allsoe
