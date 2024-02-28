@@ -1,5 +1,5 @@
 
-check this [jothis.epizy.com/chat ](http://jothis.epizy.com/app_)-->not working
+check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->not working
 ## UI Corrections
 
 - decrease the size for hover Organizing Committee Members 
