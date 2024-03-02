@@ -1,5 +1,5 @@
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="section-with-bg" >
+    <section id="contact" class="section-with-bg">
 
       <div class="container" data-aos="fade-up">
 
@@ -22,7 +22,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+919500874993<br>0421-2334453</a></p>
+              <p>+919500874993<br>0421-2334453</p>
             </div>
           </div>
 
@@ -30,7 +30,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">pceticiret2024@gmail.com</a></p>
+              <p><a href="mailto:pceticiret2024@gmail.com">pceticiret2024@gmail.com</a></p>
             </div>
           </div>
 
