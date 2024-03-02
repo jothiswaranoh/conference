@@ -37,5 +37,8 @@ please check
 
 ## chat link
 pls??????????????????????????
+when i get new pull same colors still present is it ok? please confirm 
+chat app app in progress i will avaivle in new when you get time have look at it.
 
-where is ur PR?what are all the new changes
+## new changes are coming
+- add 3 people secaroty before to pricinapal and 2organziers. i will add their names photos 
