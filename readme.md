@@ -49,3 +49,4 @@ chat app app in progress i will avaivle in new when you get time have look at it
 ## new changes are coming
 - add 3 people secaroty before to pricinapal and 2organziers. i will add their names photos
 - **not clearly understandable** plz provide more clear information
+- i will take new changes comming near to pricipal photo you make this perfect
