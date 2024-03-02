@@ -1,6 +1,6 @@
 
 check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->on progress working
-new app [new chat app](https://63ab2ea5645d9140f42f3694--jothis.netlify.app)--> working
+new app [new chat app](https://63ab2ea5645d9140f42f3694--jothis.netlify.app)--> working -- **which room number????????????????**
 
 ## UI Corrections
 
@@ -41,4 +41,5 @@ when i get new pull same colors still present is it ok? please confirm
 chat app app in progress i will avaivle in new when you get time have look at it.
 
 ## new changes are coming
-- add 3 people secaroty before to pricinapal and 2organziers. i will add their names photos 
+- add 3 people secaroty before to pricinapal and 2organziers. i will add their names photos
+- **not clearly understandable** plz provide more clear information
