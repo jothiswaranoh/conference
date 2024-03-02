@@ -37,7 +37,13 @@ please check
 
 ## chat link
 pls??????????????????????????
-when i get new pull same colors still present is it ok? please confirm 
+please rechange it :
+### do this
+- git stash
+- git checkout -b test1
+- git branch -D main
+- git checkout -b main --track origin/main
+- now make your change still that mode of payent orangianser not perfect
 chat app app in progress i will avaivle in new when you get time have look at it.
 
 ## new changes are coming
@@ -47,4 +53,5 @@ chat app app in progress i will avaivle in new when you get time have look at it
 ## check this bugs
 ![Image 1](correctimages/1.png)
 ![Image 2](correctimages/2.png)
+- i will take new changes comming near to pricipal photo you make this perfect
 
