@@ -1,5 +1,7 @@
 
-check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->not working
+check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->on progress working
+new app [new chat app](https://63ab2ea5645d9140f42f3694--jothis.netlify.app)--> working
+
 ## UI Corrections
 
 - decrease the size for hover Organizing Committee Members 
@@ -35,3 +37,5 @@ please check
 
 ## chat link
 pls??????????????????????????
+
+where is ur PR?what are all the new changes
