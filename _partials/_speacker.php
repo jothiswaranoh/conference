@@ -5,7 +5,6 @@
           <h2>Organizing Committee Members</h2>
           <p>Meet the Visionaries</p>
         </div>
-
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
@@ -13,8 +12,6 @@
               <div class="details">
                 <h3><a href="speaker-details.html">Chief Patron</a></h3>
                 <p>Dr. P. V. Ravi [Chairman]<br>PARK Institutions</p>
-                <div class="social">
-                </div>
               </div>
             </div>
           </div>
@@ -24,8 +21,6 @@
               <div class="details">
                 <h3><a href="speaker-details.html">Patron</a></h3>
                 <p>Mrs. Anusha.R [Chief Executive]<br>CEO of Park Group of Institutions</p>
-                <div class="social">
-                </div>
               </div>
             </div>
           </div>
@@ -35,8 +30,6 @@
               <div class="details">
                 <h3><a href="speaker-details.html">Conference Chairman</a></h3>
                 <p>Dr. D. Lakshmanan [Principal]<br>Park College of Engineering and Technology</p>
-                <div class="social">
-                </div>
               </div>
             </div>
           </div>

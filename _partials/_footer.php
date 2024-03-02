@@ -18,17 +18,15 @@
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#schedule">Services</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#speacker">Committee</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="#speacker">Committee</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#schedule">Topics</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#hotels">Publications</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#subscribe">Important Dates</a></li>
@@ -48,11 +46,10 @@
           </p>
 
           <div class="social-links">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="google-plus"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="https://twitter.com/tweettopark?lang=en" class="twitter"><i class="bi bi-twitter"></i></a>
+            <a href="https://www.facebook.com/ParkInstitutionsOfficial/" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.instagram.com/parkinstitutionsofficial/?hl=en" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.linkedin.com/school/park-college-of-engineering-and-technology/" class="linkedin"><i class="bi bi-linkedin"></i></a>
           </div>
 
         </div>
