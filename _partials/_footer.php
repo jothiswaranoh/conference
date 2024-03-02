@@ -9,8 +9,8 @@
         <div class="col-lg-3 col-md-6 footer-info">
           <img src="assets\img\about\park\logo-01.png" alt="TheEvenet">
           <p>Embark on a journey of discovery and innovation with ICIRET 2024, where brilliance converges
-             to shape the future of engineering and technology. As the curtain rises on this prestigious 
-             event, we invite you to delve into a realm of cutting-edge discussions, insightful presentations,
+            to shape the future of engineering and technology. As the curtain rises on this prestigious
+            event, we invite you to delve into a realm of cutting-edge discussions, insightful presentations,
             and collaborative opportunities.</p>
         </div>
 
@@ -28,23 +28,23 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#speacker">Committee</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#schedule">Topics</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#hotels">Publications</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#subscribe">Important Dates</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#buy-tickets">Registeration</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-contact">
           <h4>Contact Us</h4>
           <p>
-          Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India<br>
+            Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India<br>
             <strong>Phone:</strong> +919500874993<br>
             <strong>Telefax:</strong> 0421-2334453<br>
 
             <strong>Email:</strong> pceticiret2024@gmail.com
-<br>
+            <br>
           </p>
 
           <div class="social-links">

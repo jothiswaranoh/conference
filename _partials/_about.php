@@ -1,5 +1,5 @@
 <!-- ======= About Section ======= -->
-<section id="about">
+<section >
   <div class="container position-relative" data-aos="fade-up">
     <div class="row">
       <div class="col-lg-6">

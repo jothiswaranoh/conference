@@ -14,109 +14,150 @@ body {
   color: #2f3138;
   font-family: "Open Sans", sans-serif;
 }
+
 :root {
-  --primary-color:#a42386;
-  --secondary-color:#f37b16;
-  --blue-color:#e3e7fc;
+  --primary-color: #a42386;
+  --secondary-color: #f37b16;
+  --blue-color: #e3e7fc;
 }
+
 a {
   color: var(--primary-color);
   text-decoration: none;
   transition: 0.5s;
 }
-.ul-m{
-list-style: none;
-padding-left: 0;
+
+.ul-m {
+  list-style: none;
+  padding-left: 0;
 }
-.ul-scroll{
-height:410px;
-overflow-y: scroll;
-margin-bottom: 0;
-padding: 0 10%;
+
+.ul-scroll {
+  height: 410px;
+  overflow-y: scroll;
+  margin-bottom: 0;
+  padding: 0 10%;
 }
-.w-h{
+
+.w-h {
   color: #fff !important;
 }
-.text-p{
+
+.text-p {
   color: var(--primary-color) !important;
 }
-.pa-10{
- margin-bottom: 30px !important;
+
+.pa-10 {
+  margin-bottom: 30px !important;
 }
-.bold{
+
+.bold {
   font-weight: bold;
 }
-.bold span{
+
+.bold span {
   font-size: 14px;
- font-weight: 200;
+  font-weight: 200;
 }
-.margin{
+
+.margin {
   margin-top: 1%;
 }
-.register-card{
-  height:185px;
+
+.register-card {
+  height: 185px;
+  margin-bottom: 20px;
 }
-.register-card:hover h6{
+
+.register-card:hover h6 {
   font-size: 18px;
-  color:var(--primary-color);
+  color: var(--primary-color);
 }
-.register-card:hover h5{
+
+.register-card:hover h5 {
   font-size: 21px;
-  color:var(--primary-color)!important;
+  color: var(--primary-color) !important;
 }
-.date-box{
-  height:130px;
+
+.date-box {
+  height: 130px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  background-color: var(--blue-color);
+  border-radius: 1rem !important;
+  box-shadow: 0 0 1rem var(--primary-color);
 }
+
 @media screen and (width<987px) {
-  .date-box{
+  .date-box {
     height: 90px;
   }
 }
-.b-shadow-d{
-  box-shadow: 0 0 1rem red;
+
+.date-box h3 {
+  color: var(--primary-color)
 }
-.b-shadow-s
-{
-  box-shadow: 0 0 1rem #36a571;
+
+.date-box p {
+  color: #232323 !important;
 }
-.b-shadow-i{
-  box-shadow: 0 0 1rem rgb(13,202,240);
-}
-.b-shadow-w{
-  box-shadow: 0 0 1rem rgba(255, 255, 0, 0.903);
-}
-.b-shadow-d:hover,.b-shadow-i:hover,.b-shadow-w:hover,.b-shadow-s:hover {
-  
+
+.date-box:hover {
+  border-radius: 2rem 0 2rem 0 !important;
   animation: rotateRightLeft 10s ease-in-out infinite alternate;
+}
+
+.date-box:hover p {
+  color: var(--primary-color) !important;
+}
+
+.date-box:hover h3 {
+  font-weight: bold;
+  color: #232323 !important;
+}
+
+h1 sup {
+  font-size: 24px;
 }
 
 @keyframes rotateRightLeft {
   0% {
-    transform:scale(1.1);
+    transform: scale(1.1);
   }
+
   100% {
     transform: scale(1);
   }
 }
-.text-c{
+
+.text-c {
   color: var(--primary-color) !important;
 }
-.card-body img{
-width: 4rem;
-height:4rem;
-position: relative;
-border-radius: 0 0 0 1.9rem ;
-object-fit: cover;
-animation: example 1s infinite ease-in-out;
+
+.card-body img {
+  width: 4rem;
+  height: 4rem;
+  position: relative;
+  border-radius: 0 0 0 1.9rem;
+  object-fit: cover;
+  animation: example 1s infinite ease-in-out;
 }
-@keyframes example{
-  0%   {transform: rotate(0deg);}
-  50%  {transform: rotate(10deg);}
-  100% {transform: rotate(0deg);} 
+
+@keyframes example {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
 }
+
 a:hover,
 a:active,
 a:focus {
@@ -199,6 +240,7 @@ h6 {
   position: relative;
   padding-bottom: 20px;
 }
+
 .section-front {
   position: relative;
 }
@@ -235,17 +277,20 @@ h6 {
   background-color: var(--blue-color);
   padding: 60px 0;
 }
-.pad-1{
+
+.pad-1 {
   padding: 1%;
 }
-.div-p{
+
+.div-p {
   padding: 1%;
 }
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 90px;
+  height: 70px;
   position: fixed;
   left: 0;
   top: 0;
@@ -281,7 +326,7 @@ h6 {
 #header #logo img {
   padding: 0;
   margin: 0;
-  max-height: 60px;
+  max-height: 70px;
 }
 
 @media (max-width: 992px) {
@@ -576,10 +621,12 @@ h6 {
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
-.logo-text{
+
+.logo-text {
   margin-right: auto !important;
   padding: 1%;
 }
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -809,7 +856,7 @@ h6 {
 # Speakers Section
 --------------------------------------------------------------*/
 #speakers {
-  padding: 60px 0 30px 0;
+  padding-top: 60px;
 }
 
 #speakers .speaker {
@@ -817,7 +864,8 @@ h6 {
   overflow: hidden;
   margin-bottom: 30px;
 }
-.bg-primary-js{
+
+.bg-primary-js {
   background-color: rgba(6, 12, 34, 0.76);
   padding: 60px 0
 }
@@ -1036,9 +1084,6 @@ h6 {
 /*--------------------------------------------------------------
 # Venue Section
 --------------------------------------------------------------*/
-#venue {
-  padding: 60px 0;
-}
 
 #venue .container-fluid {
   margin-bottom: 3px;
@@ -1106,9 +1151,6 @@ h6 {
 /*--------------------------------------------------------------
 # Hotels Section
 --------------------------------------------------------------*/
-#hotels {
-  padding: 60px 0;
-}
 
 #hotels .hotel {
   border: 1px solid #e0e5fa;
@@ -1241,12 +1283,13 @@ h6 {
 /*--------------------------------------------------------------
 # F.A.Q Section
 --------------------------------------------------------------*/
-#faq {
+.faq-container {
   padding: 60px 0;
 }
-.align-center{
+
+.align-center {
   display: flex;
-align-items: center;
+  align-items: center;
 }
 
 #faq .faq-list {
@@ -1305,6 +1348,7 @@ align-items: center;
   display: none;
   transition: 0.6s;
 }
+
 /*--------------------------------------------------------------
 # Subscribe Section
 --------------------------------------------------------------*/
@@ -1325,10 +1369,12 @@ align-items: center;
   left: 0;
   right: 0;
 }
-.sub-content{
-  
+
+.sub-content {
+
   z-index: -1;
 }
+
 @media (min-width: 1024px) {
   #subscribe {
     background-attachment: fixed;
@@ -1382,10 +1428,6 @@ align-items: center;
 /*--------------------------------------------------------------
 # Buy Tickets Section
 --------------------------------------------------------------*/
-#buy-tickets {
-  padding: 60px 0;
-}
-
 #buy-tickets .card {
   border: none;
   border-radius: 5px;
@@ -1457,9 +1499,6 @@ align-items: center;
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-#contact {
-  padding: 60px 0;
-}
 
 #contact .contact-info {
   margin-bottom: 20px;
@@ -1488,7 +1527,7 @@ align-items: center;
 }
 
 #contact .contact-info a {
-  color: #4869df;
+  color: #112363;
 }
 
 #contact .contact-info a:hover {
@@ -1589,7 +1628,7 @@ align-items: center;
 }
 
 #contact .php-email-form button[type=submit]:hover {
-  background: #e0072f;
+  background: #cd37aa;
 }
 
 @keyframes animate-loading {
@@ -1742,7 +1781,7 @@ align-items: center;
 }
 
 #footer .footer-top .footer-newsletter input[type=submit]:hover {
-  background: #e0072f;
+  background: var(--primary-color);
 }
 
 #footer .copyright {

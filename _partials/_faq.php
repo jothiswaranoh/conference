@@ -1,7 +1,7 @@
 <!-- =======  F.A.Q Section ======= -->
-<section id="faq" style="background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);">
+<section style="background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);">
 
-  <div class="container" data-aos="fade-up">
+  <div class="container faq-container" id="faq" data-aos="fade-up">
     <div class="section-header">
       <h2>Conference Publication FAQ</h2>
     </div>
