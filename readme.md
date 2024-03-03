@@ -1,3 +1,19 @@
+## see i cleared my cache file and took latest code there is no error
+
+# recheck once 
+
+# principle img repeated and img size is variing what have to done there exactly ?
+
+
+
+
+
+
+
+
+
+
+
 
 check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->on progress working
 new app [new chat app](https://63ab2ea5645d9140f42f3694--jothis.netlify.app)--> working -- **which room number????????????????** 101omine 
