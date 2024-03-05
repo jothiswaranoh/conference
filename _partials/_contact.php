@@ -1,3 +1,4 @@
+    <?php $email = "https://formsubmit.co/jothiswaranoh5717@gmail.com" ?>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="section-with-bg">
 
@@ -37,7 +38,7 @@
         </div>
 
         <div class="form">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form action=<?php echo $email ?> method="POST" role="form" class="php-email-form">
             <div class="row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -47,15 +48,13 @@
               </div>
             </div>
             <div class="form-group mt-3">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              <input type="text" class="form-control" name="_subject" id="subject" placeholder="Subject" required>
             </div>
             <div class="form-group mt-3">
-              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              <textarea class="form-control" name="message" id="message" rows="5" placeholder="Message" required></textarea>
             </div>
             <div class="my-3">
-              <div class="loading">Loading</div>
               <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
             </div>
             <div class="text-center"><button type="submit">Send Message</button></div>
           </form>
