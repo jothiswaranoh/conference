@@ -20,7 +20,7 @@
               <img src="assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Patron</a></h3>
-                <p>Mrs. Anusha.R [Chief Executive]<br>CEO of Park Group of Institutions</p>
+                <p>Dr. Anusha Ravi [Chief Executive]<br>CEO of Park Group of Institutions</p>
               </div>
             </div>
           </div>
@@ -57,6 +57,17 @@
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="assets/img/speakers/6.jpg" alt="Speaker 3" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">Dr M Rajaram</a></h3>
+                <p>Prof & Dean Department of Electrical<br>and Electronic Sciences Engineering<br>Park College of Engineering and Technology</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="300">
+              <img src="assets/img/speakers/7.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Dr M Rajaram</a></h3>
                 <p>Prof & Dean Department of Electrical<br>and Electronic Sciences Engineering<br>Park College of Engineering and Technology</p>
