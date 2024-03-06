@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -29,17 +30,6 @@
   <link href="assets/css/date.scss" rel="stylesheet">
   <link href="assets/css/cards.scss" rel="stylesheet">
 
-
-
-
-
-  <!-- =======================================================
-  * Template Name: TheEvent
-  * Updated: Feb 06 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
