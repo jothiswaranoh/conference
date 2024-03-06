@@ -4,6 +4,7 @@
 # good keep it up
 
 ## were r the changes?
+it will come soon by js
 ## what about email whether its updated with new one , why my last pr is not merged
 
 check this [jothis.epizy.com/app_ ](http://jothis.epizy.com/app_)-->on progress working
