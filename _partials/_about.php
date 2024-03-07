@@ -11,7 +11,7 @@
       </div>
       <div class="col-lg-3">
         <h3 class="text-p">Where</h3>
-        <p>Park College of Engineering and Technology, Coimbatore</p>
+        <p>Park College of Engineering and Technology, Coimbatore – 641 659</p>
       </div>
       <div class="col-lg-3">
         <h3 class="text-p">When</h3>

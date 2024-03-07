@@ -10,19 +10,19 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 mb-4 pad-1">
             <div class="box date-box   text-center py-4">
-              <h3 class="mb-0">25<sup>th</sup> Feb 2023</h3>
+              <h3 class="mb-0">12<sup>th</sup> Apr 2023</h3>
               <p class="mb-0 pad-1">Last Date for Abstract Submission</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 mb-4 pad-1">
             <div class="box date-box  text-center py-4">
-              <h3 class="mb-0">1<sup>st</sup> Mar 2024</h3>
+              <h3 class="mb-0">18<sup>st</sup> Apr 2024</h3>
               <p class="mb-0">Notification Acceptance</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 mb-4 pad-1">
             <div class="box date-box  text-center py-4">
-              <h3 class="mb-0">15<sup>th</sup> Mar 2024</h3>
+              <h3 class="mb-0">20<sup>th</sup> Apr 2024</h3>
               <p class="mb-0">Registration form and fees</p>
             </div>
           </div>
