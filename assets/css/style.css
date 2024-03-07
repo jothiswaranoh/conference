@@ -42,6 +42,10 @@ a {
 .w-h {
   color: #fff !important;
 }
+.w-white {
+  color: white !important;
+}
+
 
 .text-p {
   color: var(--primary-color) !important;
@@ -104,8 +108,12 @@ a {
 }
 
 .date-box:hover {
-  border-radius: 2rem 0 2rem 0 !important;
+  border-radius: 2rem 2rem 2rem 2rem !important;
   animation: rotateRightLeft 10s ease-in-out infinite alternate;
+  -webkit-border-radius: 2rem 2rem 2rem 2rem !important;
+  -moz-border-radius: 2rem 2rem 2rem 2rem !important;
+  -ms-border-radius: 2rem 2rem 2rem 2rem !important;
+  -o-border-radius: 2rem 2rem 2rem 2rem !important;
 }
 
 .date-box:hover p {

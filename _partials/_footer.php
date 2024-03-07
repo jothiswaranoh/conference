@@ -1,6 +1,9 @@
 </main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
+<?php
+$registlink = "https://docs.google.com/forms/d/e/1FAIpQLSf2ms4FCZP6f_lYCbl90q04EigzSKZv1U_JJaENhqPojkmhjA/viewform?usp=sf_link"
+?>
 <footer id="footer">
   <div class="footer-top">
     <div class="container">
@@ -30,7 +33,7 @@
             <li><i class="bi bi-chevron-right"></i> <a href="#schedule">Topics</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#hotels">Publications</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#subscribe">Important Dates</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#buy-tickets">Registeration</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="<?php echo $registlink?>">Registeration</a></li>
           </ul>
         </div>
 
@@ -40,7 +43,7 @@
             Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India<br>
             <strong>Phone:</strong> +919500874993<br>
             <strong>Telefax:</strong> 0421-2334453<br>
-
+            <strong>Website:</strong> www.iciret.com<br>
             <strong>Email:</strong> pceticiret2024@gmail.com
             <br>
           </p>

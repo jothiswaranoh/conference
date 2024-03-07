@@ -49,7 +49,7 @@
               <img src="assets/img/speakers/5.jpeg" alt="Speaker 2" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Dr Sakthivel S</a></h3>
-                <p>Prof & Head Department of Textile Technology<br>Park college of Engineering and Technology</p>
+                <p>Prof & Head Department <br> of Textile Technology</p>
               </div>
             </div>
           </div>
@@ -58,7 +58,7 @@
               <img src="assets/img/speakers/6.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Dr M Rajaram</a></h3>
-                <p>Prof & Dean Department of Electrical<br>and Electronic Sciences Engineering<br>Park College of Engineering and Technology</p>
+                <p>Prof & Dean Department of Electrical<br>and Electronic Sciences Engineering</p>
               </div>
             </div>
           </div>
@@ -67,7 +67,7 @@
               <img src="assets/img/speakers/7.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Dr M Rajaram</a></h3>
-                <p>Prof & Dean Department of Electrical<br>and Electronic Sciences Engineering<br>Park College of Engineering and Technology</p>
+                <p>G.M Department of Electrical<br>and Electronic Sciences Engineering</p>
               </div>
             </div>
           </div>
