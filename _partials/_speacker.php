@@ -6,7 +6,7 @@
           <p>Meet the Visionaries</p>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
               <img src="assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
@@ -15,7 +15,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
@@ -24,7 +24,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
@@ -33,10 +33,7 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          
-        <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="assets/img/speakers/principal.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
@@ -45,7 +42,9 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/speakers/5.jpeg" alt="Speaker 2" class="img-fluid">
               <div class="details">
@@ -54,7 +53,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="assets/img/speakers/6.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
@@ -63,9 +62,7 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-        <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="assets/img/speakers/7.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
