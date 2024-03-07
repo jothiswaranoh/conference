@@ -40,7 +40,7 @@
             Park College of Engineering and Technology<br>NH-47, Kaniyur, Coimbatore,<br>Tamil Nadu, India<br>
             <strong>Phone:</strong> +919500874993<br>
             <strong>Telefax:</strong> 0421-2334453<br>
-
+            <strong>Website:</strong> www.iciret.com<br>
             <strong>Email:</strong> pceticiret2024@gmail.com
             <br>
           </p>

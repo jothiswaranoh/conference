@@ -46,7 +46,7 @@
             <h5 class="card-title text-muted text-uppercase text-center text-c">NEFT/Online Transfer</h5>
             </div>
             <hr>
-            <p class="text-center">Bank Name: CANARA BANK, Kaniyur<br>Account Name: ICIRET<br>Account No: 61162200035200<br>IFSC code: CNRB0016146</p>
+            <p class="text-center">Bank Name: CANARA BANK, Kaniyur<br>Account Name: ICIRET<br>Account No: 61462200035200<br>IFSC code: CNRB0016146</p>
           </div>
         </div>
       </div>
