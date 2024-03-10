@@ -15,7 +15,7 @@
       </div>
       <div class="col-lg-3">
         <h3 class="text-p">When</h3>
-        <p>Sunday to Monday<br>25-26 April</p>
+        <p>Monday to tuesday<br>25-26 April</p>
       </div>
     </div>
   </div>
