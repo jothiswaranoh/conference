@@ -38,7 +38,6 @@ a {
   margin-bottom: 0;
   padding: 0 10%;
 }
-
 .w-h {
   color: #fff !important;
 }
@@ -1623,6 +1622,16 @@ h6 {
 
 #contact .php-email-form textarea {
   padding: 12px 15px;
+}
+
+.register{
+  background: var(--primary-color);
+  border: 0;
+  padding: 10px 40px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  cursor: pointer;
 }
 
 #contact .php-email-form button[type=submit] {

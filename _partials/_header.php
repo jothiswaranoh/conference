@@ -1,5 +1,7 @@
 <!-- ======= Header ======= -->
-<?php $title = "Park College of Engineering and Technology"?>
+<?php $title = "Park College of Engineering and Technology";
+$registlink = "https://docs.google.com/forms/d/e/1FAIpQLSf2ms4FCZP6f_lYCbl90q04EigzSKZv1U_JJaENhqPojkmhjA/viewform?usp=sf_link"
+?>
 <header id="header" class="d-flex align-items-center ">
   <div class="container-fluid container-xxl d-flex align-items-center">
 
@@ -20,9 +22,10 @@
         <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
         <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
         <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        <a href="<?php $registlink ?>" class="register px-4 m-2">Register</a>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
-    </nav><
+    </nav>
 
   </div>
 </header>

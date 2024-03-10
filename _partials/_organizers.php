@@ -5,23 +5,33 @@
       <h2 class="section-title text-dark ">Organising Committee</h2>
     </div>
     <div class="row">
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-lg-12 justify-content-center d-flex" data-aos="fade-up" data-aos-delay="100">
         <div class="card mb-5 mb-lg-0">
-          <div class="card-body">
+          <div class="card-body w-85">
             <h5 class="card-title text-muted text-uppercase text-center text-c">Executive Members</h5>
             <hr>
             <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
+              <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr P V Ravi Chairman
+                <span><br /> Chief Patron <br /><i> Park Institutions</i></span>
+              </li>
+              <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr Anusha Ravi
+                <span><br /> CEO <br /><i> Park Institutions</i></span>
+              </li>
+              <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr Lakshmanan
+                <span><br /> Principal <br /><i> Park Institutions</i></span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Mr.T.R.Karthik
                 <span><br /> Secretary <br /><i> Park Institutions</i></span>
               </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Prof. K.S Sathish Kumar <br />
-                <span>General Manager <br /> <i>Park Institutions</i> </span></li>
+                <span>General Manager <br /> <i>Park Institutions</i> </span>
+              </li>
             </ul>
           </div>
         </div>
       </div>
-      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-        <div class="card mb-5 mb-lg-0">
+      <div class="col-lg-12 m-3 p-2 justify-content-center d-flex" data-aos="fade-up" data-aos-delay="200">
+        <div class="card mb-5 mb-lg-0 w-50" style="align-items:center;">
           <div class="card-body">
             <h5 class="card-title text-muted text-uppercase text-center text-c">Organising Secretaries</h5>
             <hr>
