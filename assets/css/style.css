@@ -858,7 +858,15 @@ h6 {
   margin-bottom: 20px;
   color: #fff;
 }
-
+@media screen and (width < 768px) {
+  .executive-box{
+    display: flex !important;
+    flex-direction: column !important;
+    row-gap: 1.8rem !important;
+        padding: 1rem;
+  }
+}
+  
 /*--------------------------------------------------------------
 # Speakers Section
 --------------------------------------------------------------*/
