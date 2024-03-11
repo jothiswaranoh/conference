@@ -5,12 +5,12 @@
       <h2 class="section-title text-dark ">Organising Committee</h2>
     </div>
     <div class="row">
-      <div class="col-lg-12 justify-content-center d-flex" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-lg-12 justify-content-center d-flex " data-aos="fade-up" data-aos-delay="100">
         <div class="card mb-5 mb-lg-0">
           <div class="card-body w-85">
             <h5 class="card-title text-muted text-uppercase text-center text-c">Executive Members</h5>
             <hr>
-            <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
+            <ul class="fa-ul ul-m d-flex justify-content-center executive-box gap-3">
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr P V Ravi Chairman
                 <span><br /> Chief Patron <br /><i> Park Institutions</i></span>
               </li>
@@ -30,12 +30,12 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-12 m-3 p-2 justify-content-center d-flex" data-aos="fade-up" data-aos-delay="200">
-        <div class="card mb-5 mb-lg-0 w-50" style="align-items:center;">
+      <div class="col-lg-12 p-4 justify-content-center d-flex" data-aos="fade-up" data-aos-delay="200">
+        <div class="card mb-5 mb-lg-0" style="align-items:center;">
           <div class="card-body">
             <h5 class="card-title text-muted text-uppercase text-center text-c">Organising Secretaries</h5>
             <hr>
-            <ul class="fa-ul ul-m d-flex justify-content-center gap-5">
+            <ul class="fa-ul ul-m d-flex justify-content-center executive-box gap-3">
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Sakthivel Santhanam <span>
                   <br /> <i>Professor and Research<br /> Head Textile Technology</i> </span></li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Rajaram Mani <span> <br />
@@ -140,27 +140,33 @@
                 <span><br /> Advisor, ISRO</span>
               </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Subramanian S <br />
-                <span>Former VC, Bharathiyar University, Coimbatore</span> </li>
+                <span>Former VC, Bharathiyar University, Coimbatore</span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Seshan S <br /> <span>Emeritus
                   Professor Indian Institute of Science, Bangalore</span> </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. A. Subhash Babu <br />
-                <span>IIT Bombay, Mumbai</span> </li>
+                <span>IIT Bombay, Mumbai</span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr Kannan R <br />
-                <span>Multimedia University, Malaysia</span> </li>
+                <span>Multimedia University, Malaysia</span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. R. Velraj <br /> <span>VC Anna
                   University, Chennai</span> </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. K. Manonmani <br />
-                <span>Principal, GCT, Coimbatore</span> </li>
+                <span>Principal, GCT, Coimbatore</span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Narendran TT <br /> <span>IIT
                   Madras, Chennai</span> </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. Anand RB <br /> <span>National
                   Institute of Technology Tiruchirappalli</span> </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. P. Palanisamy <br />
-                <span>NIT, Tiruchirappalli</span> </li>
+                <span>NIT, Tiruchirappalli</span>
+              </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Dr. N. Murugan <br /> <span>CIT,
                   Coimbatore</span> </li>
               <li class="bold"><span class="fa-li"><i class="fas fa-check"></i></span>Prof. Bidyadhar Subudhi <br />
-                <span>NIT, Warangal, Andhra Pradesh</span> </li>
+                <span>NIT, Warangal, Andhra Pradesh</span>
+              </li>
             </ul>
 
           </div>
